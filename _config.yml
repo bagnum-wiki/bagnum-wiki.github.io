@@ -2,7 +2,7 @@ url: "https://bagnum-wiki.github.io"
 # (string) Title of your wiki
 title: BagnUM Wiki
 # (string) Description of your wiki
-description: 
+description: The official archive and hub for BagnUM Ultimate Frisbee
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
