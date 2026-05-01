@@ -18,7 +18,7 @@ title: Current Roster
 </style>
 
 <div class="w3-container">
-    <h1 class="w3-border-bottom w3-border-light-gray w3-padding-16">2023-2024 BagnUM Roster</h1>
+    <h1 class="w3-border-bottom w3-border-light-gray w3-padding-16">2025-2026 BagnUM Roster</h1>
     
     <!-- CAPTAINS SECTION -->
     <h3 class="w3-text-indigo"><b>Captains</b></h3>
@@ -26,10 +26,46 @@ title: Current Roster
         <!-- Captain 1 -->
         <div class="w3-col l4 m6 w3-margin-bottom">
             <div class="w3-card player-card w3-white w3-display-container">
+                <span class="jersey-number">#22</span>
+                <img src="https://via.placeholder.com/300x350" alt="Player Name" style="width:100%">
+                <div class="w3-container w3-center">
+                    <h4><b>Matthew Cao</b></h4>
+                    <p class="w3-text-blue"><b>Handler | Senior</b></p>
+                    <p class="w3-small">Defensive specialist and deep threat.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="w3-col l4 m6 w3-margin-bottom">
+            <div class="w3-card player-card w3-white w3-display-container">
+                <span class="jersey-number">#22</span>
+                <img src="https://via.placeholder.com/300x350" alt="Player Name" style="width:100%">
+                <div class="w3-container w3-center">
+                    <h4><b>Erich Zhang</b></h4>
+                    <p class="w3-text-blue"><b>Cutter | Senior</b></p>
+                    <p class="w3-small">Defensive specialist and deep threat.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="w3-col l4 m6 w3-margin-bottom">
+            <div class="w3-card player-card w3-white w3-display-container">
+                <span class="jersey-number">#22</span>
+                <img src="https://via.placeholder.com/300x350" alt="Player Name" style="width:100%">
+                <div class="w3-container w3-center">
+                    <h4><b>Kyle Fick</b></h4>
+                    <p class="w3-text-blue"><b>Cutter | Sophomore</b></p>
+                    <p class="w3-small">Defensive specialist and deep threat.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="w3-col l4 m6 w3-margin-bottom">
+            <div class="w3-card player-card w3-white w3-display-container">
                 <span class="jersey-number">#10</span>
                 <img src="https://via.placeholder.com/300x350" alt="Player Name" style="width:100%">
                 <div class="w3-container w3-center">
-                    <h4><b>Lucas Busch</b></h4>
+                    <h4><b>William Bushey</b></h4>
                     <p class="w3-text-blue"><b>Handler | Junior</b></p>
                     <p class="w3-small">"He once threw a 70-yard hammer into a hurricane."</p>
                 </div>
@@ -42,8 +78,8 @@ title: Current Roster
                 <span class="jersey-number">#22</span>
                 <img src="https://via.placeholder.com/300x350" alt="Player Name" style="width:100%">
                 <div class="w3-container w3-center">
-                    <h4><b>John Smith</b></h4>
-                    <p class="w3-text-blue"><b>Cutter | Senior</b></p>
+                    <h4><b>Anthony James Moody</b></h4>
+                    <p class="w3-text-blue"><b>Handler | Sophomore</b></p>
                     <p class="w3-small">Defensive specialist and deep threat.</p>
                 </div>
             </div>
