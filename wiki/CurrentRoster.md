@@ -106,7 +106,7 @@ title: Current Roster
         <div class="w3-col l3 m4 w3-margin-bottom">
             <div class="w3-card player-card w3-white w3-display-container">
                 <span class="jersey-number">#42</span>
-                <img src="https://via.placeholder.com/300x300" alt="Player" style="width:100%">
+                <img src="/pictures/close-up-profile-view-of-pensive-upset-african-american-man-look-in-distance-thinking-of-personal-problems-thoughtful-sad-biracial-male-feel-depressed-lost-in-thoughts-pondering-having-dilemma-photo.webp" alt="Player" style="width:100%">
                 <div class="w3-container w3-center">
                     <h5><b>Example Player</b></h5>
                     <p class="w3-opacity">Handler | Sophomore</p>
