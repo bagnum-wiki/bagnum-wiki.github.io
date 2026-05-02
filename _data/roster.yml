@@ -1,0 +1,15 @@
+- name: Lucas Busch
+  number: 24
+  position: Cutter
+  year: Junior
+  captain: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: William Bushey
+  number: 25
+  position: Handler
+  year: Junior
+  captain: true
+  image: /pictures/test.webp
+  bio: "Papa rizz"
