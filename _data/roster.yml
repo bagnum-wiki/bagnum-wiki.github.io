@@ -3,6 +3,7 @@
   position: Cutter
   year: Junior
   captain: false
+  alumni: false
   image: /pictures/test.webp
   bio: "Rizzler"
 
@@ -11,5 +12,24 @@
   position: Handler
   year: Junior
   captain: true
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Papa rizz"
+
+- name: Chad Cao
+  number: 25
+  position: Handler
+  year: Senior
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Papa rizz"
+
+- name: Erich Zhang
+  number: 25
+  position: Handler
+  year: Senior
+  captain: true
+  alumni: false
   image: /pictures/test.webp
   bio: "Papa rizz"
