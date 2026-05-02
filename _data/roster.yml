@@ -19,7 +19,7 @@
 - name: Chad Cao
   number: 24
   position: Cutter
-  year: Junior
+  year: Senior
   captain: false
   alumni: false
   image: /pictures/test.webp
@@ -28,7 +28,7 @@
 - name: Mekhi Phillips-Rincher
   number: 24
   position: Cutter
-  year: Junior
+  year: Senior
   captain: false
   alumni: false
   image: /pictures/test.webp
@@ -37,7 +37,7 @@
 - name: Jerry Mao
   number: 24
   position: Cutter
-  year: Junior
+  year: Senior
   captain: false
   alumni: false
   image: /pictures/test.webp
@@ -46,7 +46,7 @@
 - name: Asher Strayhorn
   number: 24
   position: Cutter
-  year: Junior
+  year: Senior
   captain: false
   alumni: false
   image: /pictures/test.webp
