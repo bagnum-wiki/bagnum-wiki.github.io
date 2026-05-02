@@ -390,11 +390,35 @@ screen and (max-width: 480px) {
   dark mode
   https://darkmodejs.learn.uno/#debug 
 */
-.darkmode-layer, .darkmode-toggle {
+/* 
+  FIXED DARK MODE
+*/
+.darkmode-layer,
+.darkmode-toggle {
   z-index: 500;
 }
 
-/* disable dark mode on images */
-body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
-  mix-blend-mode: difference;
+/* This stops the "blue skin" effect */
+body.darkmode--activated img,
+body.darkmode--activated .darkmode-ignore {
+  mix-blend-mode: normal !important;
+  filter: none !important;
+}
+
+/* Keep the player cards looking professional in both modes */
+.player-card {
+  isolation: isolate;
+  background-color: #ffffff !important;
+}
+
+.player-card h4,
+.player-card p,
+.player-card i {
+  color: #222222 !important;
+}
+
+/* Custom color for Captains (Michigan Blue) */
+.w3-indigo.darkmode-ignore {
+  background-color: #00274C !important;
+  color: #FFCB05 !important;
 }
