@@ -1,3 +1,57 @@
+- name: Matthew Cao
+  number: 25
+  position: Handler
+  year: Senior
+  captain: true
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Papa rizz"
+
+- name: Erich Zhang
+  number: 25
+  position: Handler
+  year: Senior
+  captain: true
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Papa rizz"
+
+- name: Chad Cao
+  number: 24
+  position: Cutter
+  year: Junior
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Mekhi Phillips-Rincher
+  number: 24
+  position: Cutter
+  year: Junior
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Jerry Mao
+  number: 24
+  position: Cutter
+  year: Junior
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Asher Strayhorn
+  number: 24
+  position: Cutter
+  year: Junior
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
 - name: Lucas Busch
   number: 24
   position: Cutter
@@ -16,20 +70,200 @@
   image: /pictures/test.webp
   bio: "Papa rizz"
 
-- name: Chad Cao
-  number: 25
-  position: Handler
-  year: Senior
+- name: Jack Miller
+  number: 24
+  position: Cutter
+  year: Junior
   captain: false
   alumni: false
   image: /pictures/test.webp
-  bio: "Papa rizz"
+  bio: "Rizzler"
 
-- name: Erich Zhang
-  number: 25
-  position: Handler
-  year: Senior
+- name: Jake Rivett
+  number: 24
+  position: Cutter
+  year: Junior
   captain: true
   alumni: false
   image: /pictures/test.webp
-  bio: "Papa rizz"
+  bio: "Rizzler"
+
+- name: Leo Huyghe
+  number: 24
+  position: Cutter
+  year: Junior
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: William Dulaney
+  number: 24
+  position: Cutter
+  year: Junior
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Nathan Mills
+  number: 24
+  position: Cutter
+  year: Junior
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Ryan Gavenda
+  number: 24
+  position: Cutter
+  year: Junior
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Alain Zhou
+  number: 24
+  position: Cutter
+  year: Sophomore
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Alex Johnson
+  number: 24
+  position: Cutter
+  year: Sophomore
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Eli Rangarajan
+  number: 24
+  position: Cutter
+  year: Sophomore
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Gabriel Sanborn
+  number: 24
+  position: Cutter
+  year: Sophomore
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Grantham Nelson
+  number: 24
+  position: Cutter
+  year: Sophomore
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Jason Yi
+  number: 24
+  position: Cutter
+  year: Sophomore
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Joe Sanders
+  number: 24
+  position: Cutter
+  year: Sophomore
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Kevin Toland
+  number: 24
+  position: Cutter
+  year: Sophomore
+  captain: true
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Kyle Fick
+  number: 24
+  position: Cutter
+  year: Sophomore
+  captain: true
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Peter Schoenherr
+  number: 24
+  position: Cutter
+  year: Sophomore
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Anthony James Moody
+  number: 24
+  position: Cutter
+  year: Sophomore
+  captain: true
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Andrew Eklov
+  number: 24
+  position: Cutter
+  year: Freshman
+  captain: true
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Jin Zhang
+  number: 24
+  position: Cutter
+  year: Freshman
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Johan Landis-Lewis
+  number: 24
+  position: Cutter
+  year: Freshman
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Kieran Coffey
+  number: 24
+  position: Cutter
+  year: Freshman
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
+
+- name: Sam Land
+  number: 24
+  position: Cutter
+  year: Freshman
+  captain: false
+  alumni: false
+  image: /pictures/test.webp
+  bio: "Rizzler"
