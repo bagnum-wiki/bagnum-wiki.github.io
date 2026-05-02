@@ -1,11 +1,8 @@
 <div class="w3-col l3 m6">
-    <!-- Added darkmode-ignore here too just to be safe -->
-    <div class="w3-card player-card {{ include.color }} darkmode-ignore">
+    <div class="w3-card w3-white w3-margin-bottom" style="border-radius: 8px; overflow: hidden;">
         <div class="w3-display-container" style="height: 250px; background: #eee; overflow: hidden;">
-            <!-- Added the class 'darkmode-ignore' to the img -->
             <img src="{{ include.player.image | default: '/assets/images/placeholder.png' }}" 
                  alt="{{ include.player.name }}" 
-                 class="darkmode-ignore"
                  style="width:100%; height:100%; object-fit: cover;">
             <span class="w3-display-topleft w3-black w3-padding" style="opacity:0.8">#{{ include.player.number }}</span>
         </div>

@@ -390,44 +390,11 @@ screen and (max-width: 480px) {
   dark mode
   https://darkmodejs.learn.uno/#debug 
 */
-/* 
-  FIXED DARK MODE
-*/
-.darkmode-layer,
-.darkmode-toggle {
+.darkmode-layer, .darkmode-toggle {
   z-index: 500;
 }
 
-/* 
-  FIXED DARK MODE - THE RE-INVERSION 
-  To look "normal" in Darkmode.js, images MUST be inverted twice.
-*/
-
-/* 1. This flips the images back to their original colors */
-body.darkmode--activated img,
-body.darkmode--activated .darkmode-ignore,
-body.darkmode--activated .player-card img {
-  mix-blend-mode: difference !important;
-}
-
-/* 2. Fix the Player Cards */
-/* We stay with white cards because they look best for rosters */
-.player-card {
-  isolation: isolate;
-  background-color: #ffffff !important;
-}
-
-/* Force text to stay dark on the white cards */
-body.darkmode--activated .player-card h4,
-body.darkmode--activated .player-card p,
-body.darkmode--activated .player-card i {
-  color: #222222 !important;
-}
-
-/* 3. Handle the Captains (Blue Cards) */
-/* We have to flip the card background back too, otherwise it looks weird */
-body.darkmode--activated .w3-indigo.darkmode-ignore {
-  mix-blend-mode: difference !important;
-  background-color: #00274C !important;
-  color: #FFCB05 !important;
+/* disable dark mode on images */
+body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
+  mix-blend-mode: difference;
 }
