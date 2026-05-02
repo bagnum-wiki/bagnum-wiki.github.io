@@ -4,7 +4,7 @@
   year: Senior
   grad_year: 2026
   captain: true
-  alumni: false
+  alumni: true
   image: /pictures/test.webp
   bio: "Papa rizz"
 
@@ -64,7 +64,7 @@
   year: Junior
   grad_year: 2027
   captain: false
-  alumni: false
+  alumni: true
   image: /pictures/test.webp
   bio: "Rizzler"
 
